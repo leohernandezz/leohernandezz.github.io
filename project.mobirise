@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Leonardo Hernandez",
-    "currentPage": "thousand million",
+    "currentPage": "index",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -255,7 +255,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-0",
+          "_anchor": "ext_menu-2k",
           "_params": {
             "bgColor": "#000000",
             "fontSize": "0.7",
@@ -621,7 +621,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-0",
+          "_anchor": "ext_menu-2k",
           "_params": {
             "bgColor": "#000000",
             "fontSize": "0.7",
@@ -893,7 +893,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-0",
+          "_anchor": "ext_menu-2k",
           "_params": {
             "bgColor": "#000000",
             "fontSize": "0.7",
@@ -1125,7 +1125,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-0",
+          "_anchor": "ext_menu-2k",
           "_params": {
             "bgColor": "#000000",
             "fontSize": "0.7",
@@ -1574,7 +1574,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-0",
+          "_anchor": "ext_menu-2k",
           "_params": {
             "bgColor": "#000000",
             "fontSize": "0.7",
@@ -1851,7 +1851,7 @@
               "src": "@PROJECT_PATH@/assets/images/website-leo-logo-167x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index",
+              "link": "https://leohernandezz.github.io/#",
               "title": "",
               "linkInNewWindow": false,
               "active": true
@@ -2074,7 +2074,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-0",
+          "_anchor": "ext_menu-2k",
           "_params": {
             "bgColor": "#000000",
             "fontSize": "0.7",
@@ -2166,7 +2166,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=F0UHjiT_7Qc",
+              "src": "https://www.youtube.com/watch?v=sY5-3MVkgzs",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -2300,7 +2300,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-2g",
+          "_anchor": "ext_menu-2k",
           "_params": {
             "bgColor": "#000000",
             "fontSize": "0.7",
